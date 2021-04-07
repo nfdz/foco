@@ -11,13 +11,9 @@ Minimalist text editor for writing without distractions.
 
 ## Download
 
-<p align="center"><a href="https://play.google.com/store/apps/details?id=io.github.nfdz.foco">
-  <img width="250" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png?raw=true" alt="Get it on Google Play"/>
-</a></p>
 <p align="center"><a href="https://github.com/nfdz/foco/releases">
   <img width="250" src="dev/githubBadge.png?raw=true" alt="Get it on Github"/>
 </a></p>
-
 
 ## Features
 
