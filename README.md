@@ -1,6 +1,9 @@
+
+⚠️  **This project has been discontinued** ⚠️
+
 # foco
 
-Minimalist text editor for writing without distractions for Android. This application can be considered a professional writing application without distractions and fuss since it has many useful features, or also as a simple notes application because it is easy to use and tiny.
+Minimalist text editor for writing without distractions.
 
 <p align="center">
   <img src="dev/icon.png?raw=true" width="250" alt="App Icon"/>
@@ -58,14 +61,6 @@ Minimalist text editor for writing without distractions for Android. This applic
 <p align="center">
   <img src="dev/mockup.png?raw=true" width="300" alt="App Mockup"/>
 </p>
-
-## TODO
-* Add cover image to exported documents.
-* Add settings: font size, font family and default open doc click action (preview or edit)
-* Implement Undo/Redo
-* Keyboard shortcuts
-* Secret files
-* Starred files widget
 
 ## 3rd party software
 
