@@ -1,7 +1,7 @@
 
 ⚠️  **This project has been discontinued** ⚠️
 
-# foco
+# Foco
 
 Minimalist text editor for writing without distractions.
 
